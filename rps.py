@@ -16,7 +16,7 @@ class RPS(Enum):
 # sys.exit()
 
 print('hey')
-playerchoice = input("Enter : 1 for Rock 2 for Paper  for Scissors => ")
+playerchoice = input("Enter : 1 for Rock, 2 for Paper, 3 for Scissors ")
 # print(playerchoice)
 
 player = int(playerchoice)
